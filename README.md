@@ -6,11 +6,7 @@
 [![Blog](https://img.shields.io/badge/Blog-zephyr--rain.top-0e75b6?style=flat&logo=book&logoColor=white)](https://zephyr-rain.top/)
 [![GitHub](https://img.shields.io/badge/GitHub-Yzeph-181717?style=flat&logo=github)](https://github.com/Yzeph)
 
-<br>
-
 ` Java ` ☕ ` Spring ` 🍃 ` MySQL ` 🐬 ` Python ` 🐍 ` Linux ` 🐧
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yzeph/Yzeph/output/github-contribution-grid-snake-dark.svg">
